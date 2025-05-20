@@ -30,8 +30,14 @@
 ## 📸 Интерфейс
 
 ### 🏠 Главная страница
-![Главная страница](![image](https://github.com/user-attachments/assets/6263cfc7-a5bd-47ba-9c99-ec2ab754dcb0)
-)
+![Главная страница](https://github.com/user-attachments/assets/7e0566e2-a57e-4c64-a73b-5a36a4d960dd)
+
+### 📝 Регистрация
+![Страница регистрации](https://github.com/user-attachments/assets/7322edf7-9a61-4998-8229-e5e214989752)
+
+
+### 🛒 Корзина
+![Корзина](https://github.com/user-attachments/assets/bec51a82-3698-4fdb-a35f-9cf0d4fa5e3f)
 
 ---
 
